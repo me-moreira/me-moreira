@@ -4,7 +4,7 @@
 💻 Aspiring Front-End Developer
 📍 Rio de Janeiro, Brazil
 
- About Me
+ # About Me
 
 I'm a Software Engineering student passionate about technology and software development.
 
