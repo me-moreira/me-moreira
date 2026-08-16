@@ -1,7 +1,7 @@
 # Hi, I'm Maria Eduarda Moreira
 
 🎓 Software Engineering Student
-💻 Aspiring Front-End Developer
+💻 Aspiring Front-End Developer 
 📍 Rio de Janeiro, Brazil
 
  # About Me
