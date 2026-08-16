@@ -4,13 +4,13 @@
 💻 Aspiring Front-End Developer
 📍 Rio de Janeiro, Brazil
 
-# About Me
+ About Me
 
 I'm a Software Engineering student passionate about technology and software development.
 
 I'm currently building my skills in programming, web development, and software engineering.
 
-# Technologies & Tools
+# Technologies 
 
 * HTML & CSS
 * JavaScript
